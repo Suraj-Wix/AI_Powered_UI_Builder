@@ -201,7 +201,7 @@ If you found this project useful, please give it a star ⭐ on GitHub.
 
 Frontend Developer | React Developer | AI Enthusiast
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Suraj-Wix/AI_Powered_UI_Builder/tree/main
 
 ---
 
